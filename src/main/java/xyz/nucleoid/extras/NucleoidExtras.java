@@ -13,6 +13,7 @@ import xyz.nucleoid.extras.command.CommandAliases;
 import xyz.nucleoid.extras.integrations.NucleoidIntegrations;
 import xyz.nucleoid.extras.scheduled_stop.ScheduledStop;
 import xyz.nucleoid.extras.sidebar.NucleoidSidebar;
+import xyz.nucleoid.extras.statistics.NucleoidStatistics;
 
 public final class NucleoidExtras implements ModInitializer {
     public static final String ID = "nucleoid_extras";
